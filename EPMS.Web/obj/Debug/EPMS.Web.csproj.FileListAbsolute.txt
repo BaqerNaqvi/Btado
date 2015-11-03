@@ -1,0 +1,408 @@
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Web.dll.config
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Web.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Web.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\ar\EPMS.Web.resources.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Antlr3.Runtime.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EntityFramework.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EntityFramework.SqlServer.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Implementation.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Interfaces.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Models.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Repository.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.WebBase.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\itextsharp.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Newtonsoft.Json.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Owin.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\PagedList.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\PagedList.Mvc.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Net.Http.Formatting.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Helpers.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Http.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Http.WebHost.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Mvc.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Optimization.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Razor.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.Razor.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\WebActivatorEx.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\WebGrease.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Implementation.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Interfaces.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Models.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.Repository.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EPMS.WebBase.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EntityFramework.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\EntityFramework.SqlServer.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\itextsharp.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\PagedList.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\PagedList.Mvc.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Net.Http.Formatting.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Helpers.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Http.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Http.WebHost.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Mvc.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Optimization.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.Razor.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\System.Web.WebPages.Razor.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Newtonsoft.Json.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\bin\Antlr3.Runtime.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.csprojResolveAssemblyReference.cache
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.resources
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.resources
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.ar.resources
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.ar.resources
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.csproj.GenerateResource.Cache
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\RdlCompile.cache
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\RdlCompile.compiled
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\ar\EPMS.Web.resources.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Web\obj\Debug\EPMS.Web.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Web.dll.config
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Web.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Web.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\ar\EPMS.Web.resources.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Antlr3.Runtime.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EntityFramework.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EntityFramework.SqlServer.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Implementation.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Interfaces.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Models.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Repository.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.WebBase.dll
+D:\EPMS\EPMS\EPMS.Web\bin\itextsharp.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Newtonsoft.Json.dll
+D:\EPMS\EPMS\EPMS.Web\bin\Owin.dll
+D:\EPMS\EPMS\EPMS.Web\bin\PagedList.dll
+D:\EPMS\EPMS\EPMS.Web\bin\PagedList.Mvc.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Net.Http.Formatting.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Helpers.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Http.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Http.WebHost.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Mvc.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Optimization.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Razor.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.Deployment.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.dll
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.Razor.dll
+D:\EPMS\EPMS\EPMS.Web\bin\WebActivatorEx.dll
+D:\EPMS\EPMS\EPMS.Web\bin\WebGrease.dll
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Implementation.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Interfaces.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Models.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.Repository.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EPMS.WebBase.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\EntityFramework.xml
+D:\EPMS\EPMS\EPMS.Web\bin\EntityFramework.SqlServer.xml
+D:\EPMS\EPMS\EPMS.Web\bin\itextsharp.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\EPMS\EPMS\EPMS.Web\bin\PagedList.xml
+D:\EPMS\EPMS\EPMS.Web\bin\PagedList.Mvc.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Net.Http.Formatting.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Helpers.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Http.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Http.WebHost.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Mvc.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Optimization.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.Razor.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.Deployment.xml
+D:\EPMS\EPMS\EPMS.Web\bin\System.Web.WebPages.Razor.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Newtonsoft.Json.xml
+D:\EPMS\EPMS\EPMS.Web\bin\Antlr3.Runtime.pdb
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.csprojResolveAssemblyReference.cache
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.resources
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.resources
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.ar.resources
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.ar.resources
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.csproj.GenerateResource.Cache
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\RdlCompile.cache
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\RdlCompile.compiled
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\ar\EPMS.Web.resources.dll
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.dll
+D:\EPMS\EPMS\EPMS.Web\obj\Debug\EPMS.Web.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Web.dll.config
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Web.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Web.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\ar\EPMS.Web.resources.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Antlr3.Runtime.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EntityFramework.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EntityFramework.SqlServer.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Implementation.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Interfaces.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Models.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Repository.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.WebBase.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\itextsharp.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Newtonsoft.Json.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Owin.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\PagedList.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\PagedList.Mvc.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Helpers.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Optimization.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Razor.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.Razor.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\WebActivatorEx.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\WebGrease.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Implementation.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Interfaces.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Models.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.Repository.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EPMS.WebBase.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EntityFramework.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\EntityFramework.SqlServer.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\itextsharp.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\PagedList.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\PagedList.Mvc.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Helpers.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Optimization.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.Razor.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\System.Web.WebPages.Razor.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Newtonsoft.Json.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\bin\Antlr3.Runtime.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.csprojResolveAssemblyReference.cache
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.resources
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.resources
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.ar.resources
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.ar.resources
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.csproj.GenerateResource.Cache
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\RdlCompile.cache
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\RdlCompile.compiled
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\ar\EPMS.Web.resources.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Web\obj\Debug\EPMS.Web.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Web.dll.config
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Web.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Web.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\ar\EPMS.Web.resources.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Antlr3.Runtime.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EntityFramework.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EntityFramework.SqlServer.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Implementation.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Interfaces.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Models.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Repository.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.WebBase.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\itextsharp.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Newtonsoft.Json.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\Owin.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\PagedList.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\PagedList.Mvc.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Helpers.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Optimization.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Razor.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.Razor.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\WebActivatorEx.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\WebGrease.dll
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Implementation.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Interfaces.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Models.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.Repository.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EPMS.WebBase.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\EntityFramework.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\EntityFramework.SqlServer.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\itextsharp.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\PagedList.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\PagedList.Mvc.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Helpers.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Optimization.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.Razor.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\System.Web.WebPages.Razor.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Newtonsoft.Json.xml
+E:\Btado.Com\Btado\EPMS.Web\bin\Antlr3.Runtime.pdb
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.csprojResolveAssemblyReference.cache
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.resources
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.resources
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.Resources.Shared.Common.ar.resources
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.Resources.Products.Product.ar.resources
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.csproj.GenerateResource.Cache
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\RdlCompile.cache
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\RdlCompile.compiled
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\ar\EPMS.Web.resources.dll
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.dll
+E:\Btado.Com\Btado\EPMS.Web\obj\Debug\EPMS.Web.pdb

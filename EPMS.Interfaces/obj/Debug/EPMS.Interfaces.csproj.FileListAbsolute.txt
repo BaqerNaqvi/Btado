@@ -1,0 +1,96 @@
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll.config
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EntityFramework.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EPMS.Models.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.Mvc.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.Owin.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.Razor.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Owin.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EPMS.Models.pdb
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EntityFramework.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.Mvc.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\Microsoft.Owin.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.Razor.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.csprojResolveAssemblyReference.cache
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.dll
+D:\Work\Company Projects\EPMS\ES\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.pdb
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll.config
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.pdb
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EntityFramework.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EPMS.Models.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.Mvc.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.Owin.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.Razor.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Razor.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Owin.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EPMS.Models.pdb
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EntityFramework.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.Mvc.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\Microsoft.Owin.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.Razor.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Razor.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.xml
+D:\EPMS\EPMS\EPMS.Interfaces\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\EPMS\EPMS\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.csprojResolveAssemblyReference.cache
+D:\EPMS\EPMS\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.dll
+D:\EPMS\EPMS\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll.config
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EntityFramework.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EPMS.Models.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.Owin.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Owin.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EPMS.Models.pdb
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EntityFramework.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\bin\Debug\Microsoft.Owin.xml
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.csprojResolveAssemblyReference.cache
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.dll
+D:\Baqer\IST_DbFirst_FrameWork-SocialAuth-master\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.pdb
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll.config
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EPMS.Interfaces.pdb
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EntityFramework.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EPMS.Models.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.Owin.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Owin.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EPMS.Models.pdb
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EntityFramework.xml
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Btado.Com\Btado\EPMS.Interfaces\bin\Debug\Microsoft.Owin.xml
+E:\Btado.Com\Btado\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.csprojResolveAssemblyReference.cache
+E:\Btado.Com\Btado\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.dll
+E:\Btado.Com\Btado\EPMS.Interfaces\obj\Debug\EPMS.Interfaces.pdb
